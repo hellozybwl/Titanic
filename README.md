@@ -10,3 +10,4 @@ train.csv和test.csv为使用到的的数据
 有任何问题欢迎联系hanxiaoyang.ml@gmail.com
 
 # Titanic
+# day_-notes
